@@ -6,7 +6,6 @@ The Postman collection covers **user authentication, user profile management, pr
 
 The project also demonstrates practical API testing techniques such as **Bearer Token authentication, environment variables, dynamic test data, request chaining, response validation, and pre-request/test scripts**.
 
-
 ## 🔗 APIs Covered
 
 | API                | Method | Endpoint                           |
@@ -38,7 +37,6 @@ The project demonstrates practical API testing concepts including:
 * Dynamic Test Data
 * API Request Chaining
 * Automated Postman Test Scripts
-* Regression Testing
 
 ## 🔄 API Chaining
 
