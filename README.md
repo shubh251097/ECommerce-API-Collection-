@@ -62,6 +62,6 @@ Get Cart Details / Get Cart Products
 
 ### Testing Approach
 
-The collection uses **Postman JavaScript test scripts** to automate validations and verify expected API behavior. Dynamic values such as authentication tokens, product IDs, and cart IDs are captured from API responses and reused across subsequent requests.
+The collection uses **Postman JavaScript test scripts** to automate validations and verify expected API behavior. Dynamic values such as authentication tokens, product IDs, and cart IDs are captured from API responses and reused across subsequent request.
 
 This project demonstrates a structured approach to **functional API testing and end-to-end API workflow validation** using Postman.
